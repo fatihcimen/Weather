@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.8.0)
+  - Kingfisher (5.0.1)
+  - MarqueeLabel/Swift (3.2.0)
+  - MBProgressHUD (1.1.0)
+  - NotificationBannerSwift (1.8.0):
+    - MarqueeLabel/Swift (~> 3.2.0)
+    - SnapKit (~> 4.0.1)
+  - SnapKit (4.0.1)
+  - SPPermission (2.4.8)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - MBProgressHUD
+  - NotificationBannerSwift
+  - SPPermission
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - MarqueeLabel
+    - MBProgressHUD
+    - NotificationBannerSwift
+    - SnapKit
+    - SPPermission
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  Kingfisher: 4f771421b9208185217550528a06fd48756cb7c2
+  MarqueeLabel: 440a502b91a9179bd98f9fff00ba1150650a1c0e
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  NotificationBannerSwift: 49fc4be7fabada55b189b50e72184c92edd5f7f7
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SPPermission: f9f1ef0474fe3830e58afd6f7922718060c95345
+
+PODFILE CHECKSUM: 41bee0fc82eef70e20d1078a80b4d1b09a444b69
+
+COCOAPODS: 1.6.0.beta.1

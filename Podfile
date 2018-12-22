@@ -7,4 +7,10 @@ target 'Weather' do
 
   # Pods for Weather
 
+  pod 'Alamofire'
+  pod 'MBProgressHUD'
+  pod 'Kingfisher'
+  pod 'NotificationBannerSwift'
+  pod 'SPPermission'
+
 end
